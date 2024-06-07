@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Company Name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "j6WhiF9lHkqa16Jj1Gifmg",
+  "Reference": "62R58vx19Ee0OMVspIw-zQ/j6WhiF9lHkqa16Jj1Gifmg",
+  "ParentRef": "62R58vx19Ee0OMVspIw-zQ/-t56phXRzkCNMXhV7mCL-w",
+  "Created": "2024-05-23T09:21:49.3722411Z",
+  "Updated": "2024-05-23T09:21:49.3722411Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
